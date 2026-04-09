@@ -15,7 +15,7 @@ Also available; An IOS IPA only available through sideloading.
 
 Brings the full power of the Meta Achievements Project directly into the VR environment. It features a native UI optimized for both touchscreen and Quest controller input, allowing users to check their trophy progress without leaving their headset.
 
-##SideStore
+## SideStore
 Available through SideStore (and possibly AltStore) through this source link!
 https://meta-achievements.notaglitch.net/sidestore.json
 
