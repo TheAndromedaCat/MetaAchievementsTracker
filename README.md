@@ -25,4 +25,3 @@ API and Original Website Development: [DenHBR](https://meta-achievements.onrende
 
 
 
-sidestore://source/?url=https://meta-achievements.notaglitch.net/sidestore.json
