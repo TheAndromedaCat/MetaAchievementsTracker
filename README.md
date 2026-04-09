@@ -17,6 +17,7 @@ Brings the full power of the Meta Achievements Project directly into the VR envi
 
 ## SideStore
 Available through SideStore (and possibly AltStore) through this source link!
+
 https://meta-achievements.notaglitch.net/sidestore.json
 
 ## Project Attribution
