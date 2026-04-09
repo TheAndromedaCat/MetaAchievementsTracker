@@ -2,6 +2,8 @@
   "name": "Meta Achievements Tracker",
   "identifier": "net.notaglitch.MetaAchievementsTrackerSidestore",
   "sourceURL": "https://meta-achievements.notaglitch.net/sidestore.json",
+  "iconURL": "https://meta-achievements.notaglitch.net/embedimage.png",
+  "userinfo": {},
   "apps": [
     {
       "name": "Meta Achievements Tracker",
@@ -24,3 +26,7 @@
 		"https://i.imgur.com/do3iTQG.png"
       ]
     }
+],
+	"version": 1,
+	"apiVersion": "v1"
+}
