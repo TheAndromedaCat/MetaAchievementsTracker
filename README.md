@@ -11,6 +11,8 @@ A robust web-based dashboard that provides all information you could possibly ne
 
 A standalone Android application (APK) designed for phones, tablets, and Meta Quest headsets (via sideloading).
 
+Also available; An IOS IPA only available through sideloading.
+
 Brings the full power of the Meta Achievements Project directly into the VR environment. It features a native UI optimized for both touchscreen and Quest controller input, allowing users to check their trophy progress without leaving their headset.
 
 ## Project Attribution
