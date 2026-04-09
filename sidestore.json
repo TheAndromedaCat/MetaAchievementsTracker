@@ -1,0 +1,26 @@
+{
+  "name": "Meta Achievements Tracker",
+  "identifier": "net.notaglitch.MetaAchievementsTrackerSidestore",
+  "sourceURL": "https://meta-achievements.notaglitch.net/sidestore.json",
+  "apps": [
+    {
+      "name": "Meta Achievements Tracker",
+      "bundleIdentifier": "net.notaglitch.MetaAchievementsTracker",
+      "developerName": "TheAndromedaCat",
+      "subtitle": "Track your Meta Horizon achievements!",
+      "version": "1.1.9",
+      "versionDate": "2026-04-09T15:15:00Z",
+      "versionDescription": "Updated for IPadOS Support!",
+      "downloadURL": "https://github.com/TheAndromedaCat/MetaAchievementsTracker/releases/download/260409430/meta-achievements-tracker-1.1.9-260409430.ipa",
+      "localizedDescription": "Since Meta isn't going to do it... why not do it ourselves? Well, now you don't have to! A full fledged achievement tracking app for IOS and IPadOS",
+      "iconURL": "https://meta-achievements.notaglitch.net/embedimage.png",
+      "tintColor": "#005dbc",
+      "size": 955000,
+      "screenshotURLs": [
+        "https://i.imgur.com/Sn1xap8.jpeg",
+        "https://i.imgur.com/37NXrGp.jpeg",
+		"https://i.imgur.com/ZKEyWca.jpeg",
+		"https://i.imgur.com/UPiwm9m.png",
+		"https://i.imgur.com/do3iTQG.png"
+      ]
+    }
