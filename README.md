@@ -18,9 +18,9 @@ The Meta Achievements Project is a comprehensive ecosystem designed to restore a
 
 
 
-## The Web Portal
+## The Web App
 
-A robust web-based dashboard that provides all information you could possibly need about your played games and unlocked achievements on the Meta ecosystem
+A robust webapp that provides all information you could possibly need about your played games and unlocked achievements on the Meta ecosystem
 
 ## The Achievement Tracker App
 
