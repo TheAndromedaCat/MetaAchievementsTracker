@@ -50,3 +50,4 @@ API and Original Website Development: [DenHBR](https://meta-achievements.onrende
 [github-myapp]: https://github.com/TheAndromedaCat/MetaAchievementsTracker/releases/latest
 [altstore-source]: https://meta-achievements.notaglitch.net/altstore.html
 [website]: https://meta-achievements.notaglitch.net/
+[sidequest-myapp]: https://sidequestvr.com/app/55347/achievement-tracking-vr
